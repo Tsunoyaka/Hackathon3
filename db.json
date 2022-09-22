@@ -1,0 +1,16 @@
+{
+    "Cars": [
+        {
+            "id": "01309978",
+            "mark": "BMW",
+            "model": "S7",
+            "issue": 2009,
+            "eng_volume": 4.7,
+            "color": "Grey",
+            "body_type": "Универсал",
+            "price": 14570.65,
+            "milage": 34000
+        }
+    ],
+    "cars_counter": 1
+}

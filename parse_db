@@ -1,0 +1,155 @@
+{
+    "Cars": [
+        {
+            "id": "42484549",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Междугородный",
+            "issue": 2003,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Междугородный",
+            "price": 7500.0
+        },
+        {
+            "id": "42484551",
+            "mark": "MAN",
+            "model": "MAN Городской",
+            "issue": 1987,
+            "eng_volume": 6.0,
+            "color": null,
+            "body_type": "Городской",
+            "price": 9735.0
+        },
+        {
+            "id": "42484553",
+            "mark": "Scania",
+            "model": "Scania Туристический",
+            "issue": 1990,
+            "eng_volume": 12.0,
+            "color": null,
+            "body_type": "Туристический",
+            "price": 13000.0
+        },
+        {
+            "id": "42484554",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Туристический",
+            "issue": 2002,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Туристический",
+            "price": 12500.0
+        },
+        {
+            "id": "42484556",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Туристический",
+            "issue": 2007,
+            "eng_volume": 3.0,
+            "color": null,
+            "body_type": "Туристический",
+            "price": 30000.0
+        },
+        {
+            "id": "42484557",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Туристический",
+            "issue": 2005,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Туристический",
+            "price": 8518.0
+        },
+        {
+            "id": "42484559",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Городской",
+            "issue": 1999,
+            "eng_volume": 3.0,
+            "color": null,
+            "body_type": "Городской",
+            "price": 6084.0
+        },
+        {
+            "id": "42484561",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Туристический",
+            "issue": 2009,
+            "eng_volume": 2.7,
+            "color": null,
+            "body_type": "Туристический",
+            "price": 17157.0
+        },
+        {
+            "id": "42484562",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Междугородный",
+            "issue": 2005,
+            "eng_volume": 2.7,
+            "color": null,
+            "body_type": "Междугородный",
+            "price": 15500.0
+        },
+        {
+            "id": "42484564",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Туристический",
+            "issue": 2003,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Туристический",
+            "price": 12800.0
+        },
+        {
+            "id": "42484566",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Городской",
+            "issue": 2003,
+            "eng_volume": 2.7,
+            "color": null,
+            "body_type": "Городской",
+            "price": 11500.0
+        },
+        {
+            "id": "42484567",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Городской",
+            "issue": 2003,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Городской",
+            "price": 8883.0
+        },
+        {
+            "id": "42484569",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Междугородный",
+            "issue": 2011,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Междугородный",
+            "price": 15211.0
+        },
+        {
+            "id": "42484570",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Городской",
+            "issue": 2003,
+            "eng_volume": 2.9,
+            "color": null,
+            "body_type": "Городской",
+            "price": 7301.0
+        },
+        {
+            "id": "42484572",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Городской",
+            "issue": 2008,
+            "eng_volume": 2.9,
+            "color": null,
+            "body_type": "Городской",
+            "price": 7301.0
+        }
+    ],
+    "cars_counter": 15
+}

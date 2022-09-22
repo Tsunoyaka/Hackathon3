@@ -1,0 +1,155 @@
+{
+    "Cars": [
+        {
+            "id": "57393163",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Пригородный",
+            "issue": 2003,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Пригородный",
+            "price": 9800.0
+        },
+        {
+            "id": "57393165",
+            "mark": "Neoplan",
+            "model": "Neoplan Cityliner",
+            "issue": 1999,
+            "eng_volume": 12.0,
+            "color": null,
+            "body_type": "Туристический",
+            "price": 18206.0
+        },
+        {
+            "id": "57393167",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Междугородный",
+            "issue": 2003,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Междугородный",
+            "price": 7500.0
+        },
+        {
+            "id": "57393168",
+            "mark": "Scania",
+            "model": "Scania Туристический",
+            "issue": 1990,
+            "eng_volume": 12.0,
+            "color": null,
+            "body_type": "Туристический",
+            "price": 13000.0
+        },
+        {
+            "id": "57393170",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Городской",
+            "issue": 2002,
+            "eng_volume": 2.7,
+            "color": null,
+            "body_type": "Городской",
+            "price": 13500.0
+        },
+        {
+            "id": "57393171",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Туристический",
+            "issue": 2002,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Туристический",
+            "price": 12500.0
+        },
+        {
+            "id": "57393173",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Туристический",
+            "issue": 2005,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Туристический",
+            "price": 8496.0
+        },
+        {
+            "id": "57393174",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Городской",
+            "issue": 1988,
+            "eng_volume": 2.3,
+            "color": null,
+            "body_type": "Городской",
+            "price": 2185.0
+        },
+        {
+            "id": "57393176",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Городской",
+            "issue": 1999,
+            "eng_volume": 3.0,
+            "color": null,
+            "body_type": "Городской",
+            "price": 6069.0
+        },
+        {
+            "id": "57393178",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Междугородный",
+            "issue": 2005,
+            "eng_volume": 2.7,
+            "color": null,
+            "body_type": "Междугородный",
+            "price": 15500.0
+        },
+        {
+            "id": "57393179",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Междугородный",
+            "issue": 1997,
+            "eng_volume": 2.9,
+            "color": null,
+            "body_type": "Междугородный",
+            "price": 8496.0
+        },
+        {
+            "id": "57393181",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Туристический",
+            "issue": 2003,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Туристический",
+            "price": 12800.0
+        },
+        {
+            "id": "57393182",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Городской",
+            "issue": 2003,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Городской",
+            "price": 8860.0
+        },
+        {
+            "id": "57393184",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Городской",
+            "issue": 1991,
+            "eng_volume": 3.0,
+            "color": null,
+            "body_type": "Городской",
+            "price": 4248.0
+        },
+        {
+            "id": "57393185",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Междугородный",
+            "issue": 2011,
+            "eng_volume": 2.2,
+            "color": null,
+            "body_type": "Междугородный",
+            "price": 15172.0
+        }
+    ],
+    "cars_counter": 15
+}
