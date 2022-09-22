@@ -1,17 +1,17 @@
 import json
 from pprint import pprint
-from utils import BodyType
+from utils import BodyType, name
 
 
 class JsonMixin:
 
-    def get_db(self, name='db.json'):
+    def get_db(self):
         try:
             with open(f'{name}', 'r') as file:
                 return json.load(file)
         except json.decoder.JSONDecodeError:
             return {'Cars': [], 'cars_counter': 0}
-    def write_to_db(self, data, name='db.json'):
+    def write_to_db(self, data):
         with open(f'{name}', 'w') as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
 
@@ -90,8 +90,3 @@ class DeleteMixin:
             data.update(cars_counter=len(data['Cars']))
             self.write_to_db(data)
             print('Успешно удалено')
-
-
-
-
-

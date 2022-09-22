@@ -1,9 +1,4 @@
 from datetime import datetime
-import requests
-from bs4 import BeautifulSoup
-from bs4 import Tag, ResultSet
-
-
 
 class Id:
     def __init__(self) -> None:
@@ -59,3 +54,4 @@ HOST = 'https://www.mashina.kg/'
 Categor = 'commercialsearch/all/?type=6'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36'}
 
+name = 'db.json'

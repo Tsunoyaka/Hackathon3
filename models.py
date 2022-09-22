@@ -1,14 +1,15 @@
 from utils import Id
 
 
-class CarParsing:
+class Car:
     def __init__(self, 
     mark: str,
     model: str, 
     issue: int, 
-    body_type,
-    eng_volume,
+    body_type: int,
+    eng_volume: float,
     color: str, 
+    milage: int,
     price):
         self.id = Id().id_
         self.mark = mark
@@ -17,6 +18,7 @@ class CarParsing:
         self.eng_volume = eng_volume
         self.color = color
         self.body_type = body_type
+        self.milage = milage
         self.price = price
            
     @property
@@ -24,10 +26,10 @@ class CarParsing:
         self.__dict__
         return self.__dict__
 
-class Car(CarParsing):
-    def __init__(self, mark: str, model: str, issue: int, body_type, milage, eng_volume, color: str, price):
-        super().__init__(mark, model, issue, body_type, eng_volume, color, price)
-        self.milage=milage
+# class Car(CarParsing):
+#     def __init__(self, mark: str, model: str, issue: int, body_type, milage, eng_volume, color: str, price):
+#         super().__init__(mark, model, issue, body_type, eng_volume, color, price)
+#         self.milage=milage
         
 
 
