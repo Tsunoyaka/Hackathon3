@@ -49,7 +49,6 @@ class BodyType:
             else:
                 print('Выберите из вышеперечисленых вариантов')
 
-
 HOST = 'https://www.mashina.kg/'
 Categor = 'commercialsearch/all/?type=6'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36'}

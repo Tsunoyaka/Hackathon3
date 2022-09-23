@@ -46,7 +46,7 @@ class ModelParse:
             color = soup.find('meta', itemprop='color').get('content').capitalize(),
             body_type=card.find('p', class_='body-type').text.strip().split(',')[0].capitalize(),
             milage = milage, 
-            price=float(card.find('p', class_='price').find('strong').text.lstrip('$').replace(' ', ''))
+            price=float(card.find('p', class_='price').find('strong').text.lstrip('$').replace(' ', '')),
             )
             get_db['Cars'].append(obj.as_dict)
             get_db.update(cars_counter=len(get_db['Cars']))

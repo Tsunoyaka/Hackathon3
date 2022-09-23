@@ -63,14 +63,14 @@ class UpdateMixin:
             data['Cars'].remove(car)
             mark = str(input('Марка: ')) or car['mark']
             model = str(input('Модель: ')) or car['model']
-            b_data = int(input('Год выпуска: ')) or car['b_data']
-            eng_volume = format(float(input('Объем двигателя: ')), '.1f') or ['eng_volume']
+            issue = int(input('Год выпуска: ')) or car['issue']
+            eng_volume = format(float(input('Объем двигателя: ')), '.1f') or car['eng_volume']
             color = str(input('Цвет: ')) or car['color']
             body_type = str(input('Тип кузова: ')) or car['body_type']
-            milage = input('Пробег: ') or car['milage']
+            milage = int(input('Пробег: ') or car['milage'])
             price = format(float(input('Цена: ')), '.2f') or car['price']
-            new_car = cars(mark=mark, model=model, b_data=b_data, eng_volume=eng_volume, 
-            color=color, body_type=body_type, milage=milage, price=price)
+            new_car = cars(mark=mark, model=model, issue=issue, eng_volume=eng_volume, 
+            color=color, body_type=body_type, milage=milage, price=float(price))
             new_car.__dict__['id'] = car['id']
             data['Cars'].append(new_car.as_dict)
             self.write_to_db(data)
@@ -78,6 +78,30 @@ class UpdateMixin:
         else:
             print('Машины под таким id не существует')
 
+class CommentMixin:
+    def comment(self):
+        cars = self._model
+        data = self.get_db()
+        car = self.get_car_by_id()
+        a = input('Оставьте комментарий: ')
+        if car is not None:
+            data['Cars'].remove(car)
+            mark = car['mark']
+            model = car['model']
+            issue = car['issue']
+            eng_volume = car['eng_volume']
+            color = car['color']
+            body_type = car['body_type']
+            milage = car['milage']
+            price = car['price']
+            new_car = cars(mark=mark, model=model, issue=issue, eng_volume=eng_volume, 
+            color=color, body_type=body_type, milage=milage, price=float(price),comment=a)
+            new_car.__dict__['id'] = car['id']
+            data['Cars'].append(new_car.as_dict)
+            self.write_to_db(data)
+            print('Комментарий успешно добавлен')
+        else:
+            print('Машины под таким id не существует')
 
 
 class DeleteMixin:

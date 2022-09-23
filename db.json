@@ -1,29 +1,19 @@
 {
     "Cars": [
         {
-            "id": "25186179",
+            "id": "08295234",
             "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2012,
+            "model": "Mercedes-Benz Туристический",
+            "issue": 2006,
             "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Междугородный",
-            "milage": 412000,
-            "price": 17000.0
+            "color": "Синий",
+            "body_type": "Туристический",
+            "milage": 401401,
+            "price": 15000.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "25196840",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Пригородный",
-            "issue": 2000,
-            "eng_volume": 3.0,
-            "color": "Белый",
-            "body_type": "Пригородный",
-            "milage": 415000,
-            "price": 7500.0
-        },
-        {
-            "id": "25211505",
+            "id": "08310747",
             "mark": "Mercedes-Benz",
             "model": "Mercedes-Benz Междугородный",
             "issue": 2003,
@@ -31,76 +21,59 @@
             "color": "Серебристый",
             "body_type": "Междугородный",
             "milage": 417000,
-            "price": 7500.0
+            "price": 7500.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "25224795",
+            "id": "08325751",
             "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2005,
-            "eng_volume": 2.2,
-            "color": "Серебристый",
-            "body_type": "Междугородный",
-            "milage": 325000,
-            "price": 13500.0
+            "model": "Mercedes-Benz Туристический",
+            "issue": 2009,
+            "eng_volume": 2.7,
+            "color": "Черный",
+            "body_type": "Туристический",
+            "milage": 478000,
+            "price": 17110.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "25240208",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2011,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Междугородный",
-            "milage": "Не указано",
-            "price": 15172.0
-        },
-        {
-            "id": "25250938",
+            "id": "08343102",
             "mark": "Mercedes-Benz",
             "model": "Mercedes-Benz Городской",
-            "issue": 1991,
-            "eng_volume": 3.0,
-            "color": "Белый",
+            "issue": 1996,
+            "eng_volume": 2.9,
+            "color": "Жёлтый",
             "body_type": "Городской",
-            "milage": 317000,
-            "price": 4248.0
+            "milage": "Не указано",
+            "price": 7887.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "25266796",
+            "id": "08358434",
             "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Туристический",
+            "model": "Mercedes-Benz Городской",
+            "issue": 2008,
+            "eng_volume": 2.2,
+            "color": "Бордовый",
+            "body_type": "Городской",
+            "milage": "Не указано",
+            "price": 13500.0,
+            "comment": "Комментарий отсутствует"
+        },
+        {
+            "id": "08372726",
+            "mark": "Mercedes-Benz",
+            "model": "Mercedes-Benz Городской",
             "issue": 2003,
             "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 12800.0
-        },
-        {
-            "id": "25281421",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Туристический",
-            "issue": 2005,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 8496.0
-        },
-        {
-            "id": "25296483",
-            "mark": "Setra",
-            "model": "Setra Top Class",
-            "issue": 1984,
-            "eng_volume": 4.0,
             "color": "Жёлтый",
-            "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 10000.0
+            "body_type": "Городской",
+            "milage": 222252,
+            "price": 8858.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "25311257",
+            "id": "08389591",
             "mark": "Scania",
             "model": "Scania Туристический",
             "issue": 1990,
@@ -108,76 +81,23 @@
             "color": "Белый",
             "body_type": "Туристический",
             "milage": "Не указано",
-            "price": 13000.0
+            "price": 13000.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "25325240",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Туристический",
-            "issue": 2007,
-            "eng_volume": 3.0,
-            "color": "Черный",
-            "body_type": "Туристический",
-            "milage": 571000,
-            "price": 30000.0
-        },
-        {
-            "id": "25340614",
+            "id": "08406527",
             "mark": "Mercedes-Benz",
             "model": "Mercedes-Benz Междугородный",
-            "issue": 2017,
-            "eng_volume": 2.7,
-            "color": "Белый",
-            "body_type": "Междугородный",
-            "milage": 450000,
-            "price": 22000.0
-        },
-        {
-            "id": "25353832",
-            "mark": "Ford",
-            "model": "Ford Transit",
-            "issue": 2005,
-            "eng_volume": 20.0,
-            "color": "Синий",
-            "body_type": "Междугородный",
-            "milage": "Не указано",
-            "price": 5500.0
-        },
-        {
-            "id": "25366588",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Пригородный",
-            "issue": 2003,
+            "issue": 2015,
             "eng_volume": 2.2,
             "color": "Белый",
-            "body_type": "Пригородный",
-            "milage": 245000,
-            "price": 9800.0
+            "body_type": "Междугородный",
+            "milage": 304100,
+            "price": 24000.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "25377903",
-            "mark": "Neoplan",
-            "model": "Neoplan Cityliner",
-            "issue": 1999,
-            "eng_volume": 12.0,
-            "color": "Белый",
-            "body_type": "Туристический",
-            "milage": 500000,
-            "price": 18206.0
-        },
-        {
-            "id": "27038829",
-            "mark": "1",
-            "model": "1",
-            "issue": 1,
-            "eng_volume": 1.0,
-            "color": "1",
-            "body_type": "Cедан",
-            "milage": 1,
-            "price": 1.0
-        },
-        {
-            "id": "30204735",
+            "id": "08423491",
             "mark": "Mercedes-Benz",
             "model": "Mercedes-Benz Междугородный",
             "issue": 2012,
@@ -185,10 +105,11 @@
             "color": "Белый",
             "body_type": "Междугородный",
             "milage": 412000,
-            "price": 17000.0
+            "price": 17000.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "30215986",
+            "id": "08441090",
             "mark": "Mercedes-Benz",
             "model": "Mercedes-Benz Пригородный",
             "issue": 2000,
@@ -196,21 +117,11 @@
             "color": "Белый",
             "body_type": "Пригородный",
             "milage": 415000,
-            "price": 7500.0
+            "price": 7500.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "30230627",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2003,
-            "eng_volume": 2.2,
-            "color": "Серебристый",
-            "body_type": "Междугородный",
-            "milage": 417000,
-            "price": 7500.0
-        },
-        {
-            "id": "30244949",
+            "id": "08456848",
             "mark": "Mercedes-Benz",
             "model": "Mercedes-Benz Междугородный",
             "issue": 2005,
@@ -218,32 +129,23 @@
             "color": "Серебристый",
             "body_type": "Междугородный",
             "milage": 325000,
-            "price": 13500.0
+            "price": 13500.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "30259889",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2011,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Междугородный",
-            "milage": "Не указано",
-            "price": 15172.0
-        },
-        {
-            "id": "30275092",
+            "id": "08470948",
             "mark": "Mercedes-Benz",
             "model": "Mercedes-Benz Городской",
-            "issue": 1991,
-            "eng_volume": 3.0,
+            "issue": 2010,
+            "eng_volume": 3.2,
             "color": "Белый",
             "body_type": "Городской",
-            "milage": 317000,
-            "price": 4248.0
+            "milage": "Не указано",
+            "price": 15775.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "30289108",
+            "id": "08484500",
             "mark": "Mercedes-Benz",
             "model": "Mercedes-Benz Туристический",
             "issue": 2003,
@@ -251,10 +153,11 @@
             "color": "Белый",
             "body_type": "Туристический",
             "milage": "Не указано",
-            "price": 12800.0
+            "price": 12800.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "30302496",
+            "id": "08497788",
             "mark": "Mercedes-Benz",
             "model": "Mercedes-Benz Туристический",
             "issue": 2005,
@@ -262,415 +165,21 @@
             "color": "Белый",
             "body_type": "Туристический",
             "milage": "Не указано",
-            "price": 8496.0
+            "price": 8494.0,
+            "comment": "Комментарий отсутствует"
         },
         {
-            "id": "30316635",
-            "mark": "Setra",
-            "model": "Setra Top Class",
-            "issue": 1984,
-            "eng_volume": 4.0,
-            "color": "Жёлтый",
-            "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 10000.0
-        },
-        {
-            "id": "30331046",
-            "mark": "Scania",
-            "model": "Scania Туристический",
-            "issue": 1990,
-            "eng_volume": 12.0,
-            "color": "Белый",
-            "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 13000.0
-        },
-        {
-            "id": "30343715",
+            "id": "08281699",
             "mark": "Mercedes-Benz",
             "model": "Mercedes-Benz Туристический",
-            "issue": 2007,
-            "eng_volume": 3.0,
-            "color": "Черный",
-            "body_type": "Туристический",
-            "milage": 571000,
-            "price": 30000.0
-        },
-        {
-            "id": "30359635",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2017,
-            "eng_volume": 2.7,
-            "color": "Белый",
-            "body_type": "Междугородный",
-            "milage": 450000,
-            "price": 22000.0
-        },
-        {
-            "id": "30373009",
-            "mark": "Ford",
-            "model": "Ford Transit",
-            "issue": 2005,
-            "eng_volume": 20.0,
-            "color": "Синий",
-            "body_type": "Междугородный",
-            "milage": "Не указано",
-            "price": 5500.0
-        },
-        {
-            "id": "30388317",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Пригородный",
-            "issue": 2003,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Пригородный",
-            "milage": 245000,
-            "price": 9800.0
-        },
-        {
-            "id": "30401191",
-            "mark": "Neoplan",
-            "model": "Neoplan Cityliner",
-            "issue": 1999,
-            "eng_volume": 12.0,
-            "color": "Белый",
-            "body_type": "Туристический",
-            "milage": 500000,
-            "price": 18206.0
-        },
-        {
-            "id": "35042126",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2012,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Междугородный",
-            "milage": 412000,
-            "price": 17000.0
-        },
-        {
-            "id": "35054904",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Пригородный",
-            "issue": 2000,
-            "eng_volume": 3.0,
-            "color": "Белый",
-            "body_type": "Пригородный",
-            "milage": 415000,
-            "price": 7500.0
-        },
-        {
-            "id": "35067807",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2003,
-            "eng_volume": 2.2,
-            "color": "Серебристый",
-            "body_type": "Междугородный",
-            "milage": 417000,
-            "price": 7500.0
-        },
-        {
-            "id": "35083581",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2005,
-            "eng_volume": 2.2,
-            "color": "Серебристый",
-            "body_type": "Междугородный",
-            "milage": 325000,
-            "price": 13500.0
-        },
-        {
-            "id": "35097898",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2011,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Междугородный",
-            "milage": "Не указано",
-            "price": 15172.0
-        },
-        {
-            "id": "35111427",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Городской",
-            "issue": 1991,
-            "eng_volume": 3.0,
-            "color": "Белый",
-            "body_type": "Городской",
-            "milage": 317000,
-            "price": 4248.0
-        },
-        {
-            "id": "35129534",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Туристический",
-            "issue": 2003,
+            "issue": 2002,
             "eng_volume": 2.2,
             "color": "Белый",
             "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 12800.0
-        },
-        {
-            "id": "35143891",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Туристический",
-            "issue": 2005,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 8496.0
-        },
-        {
-            "id": "35158219",
-            "mark": "Setra",
-            "model": "Setra Top Class",
-            "issue": 1984,
-            "eng_volume": 4.0,
-            "color": "Жёлтый",
-            "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 10000.0
-        },
-        {
-            "id": "35172553",
-            "mark": "Scania",
-            "model": "Scania Туристический",
-            "issue": 1990,
-            "eng_volume": 12.0,
-            "color": "Белый",
-            "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 13000.0
-        },
-        {
-            "id": "35186244",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Туристический",
-            "issue": 2007,
-            "eng_volume": 3.0,
-            "color": "Черный",
-            "body_type": "Туристический",
-            "milage": 571000,
-            "price": 30000.0
-        },
-        {
-            "id": "35200228",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2017,
-            "eng_volume": 2.7,
-            "color": "Белый",
-            "body_type": "Междугородный",
-            "milage": 450000,
-            "price": 22000.0
-        },
-        {
-            "id": "35214572",
-            "mark": "Ford",
-            "model": "Ford Transit",
-            "issue": 2005,
-            "eng_volume": 20.0,
-            "color": "Синий",
-            "body_type": "Междугородный",
-            "milage": "Не указано",
-            "price": 5500.0
-        },
-        {
-            "id": "35229865",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Пригородный",
-            "issue": 2003,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Пригородный",
-            "milage": 245000,
-            "price": 9800.0
-        },
-        {
-            "id": "35245344",
-            "mark": "Neoplan",
-            "model": "Neoplan Cityliner",
-            "issue": 1999,
-            "eng_volume": 12.0,
-            "color": "Белый",
-            "body_type": "Туристический",
-            "milage": 500000,
-            "price": 18206.0
-        },
-        {
-            "id": "37034117",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2012,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Междугородный",
-            "milage": 412000,
-            "price": 17000.0
-        },
-        {
-            "id": "37050763",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Пригородный",
-            "issue": 2000,
-            "eng_volume": 3.0,
-            "color": "Белый",
-            "body_type": "Пригородный",
-            "milage": 415000,
-            "price": 7500.0
-        },
-        {
-            "id": "37064163",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2003,
-            "eng_volume": 2.2,
-            "color": "Серебристый",
-            "body_type": "Междугородный",
-            "milage": 417000,
-            "price": 7500.0
-        },
-        {
-            "id": "37076673",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2005,
-            "eng_volume": 2.2,
-            "color": "Серебристый",
-            "body_type": "Междугородный",
-            "milage": 325000,
-            "price": 13500.0
-        },
-        {
-            "id": "37091156",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2011,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Междугородный",
-            "milage": "Не указано",
-            "price": 15172.0
-        },
-        {
-            "id": "37103041",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Городской",
-            "issue": 1991,
-            "eng_volume": 3.0,
-            "color": "Белый",
-            "body_type": "Городской",
-            "milage": 317000,
-            "price": 4248.0
-        },
-        {
-            "id": "37118401",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Туристический",
-            "issue": 2003,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 12800.0
-        },
-        {
-            "id": "37132772",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Туристический",
-            "issue": 2005,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 8496.0
-        },
-        {
-            "id": "37146336",
-            "mark": "Setra",
-            "model": "Setra Top Class",
-            "issue": 1984,
-            "eng_volume": 4.0,
-            "color": "Жёлтый",
-            "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 10000.0
-        },
-        {
-            "id": "37160322",
-            "mark": "Scania",
-            "model": "Scania Туристический",
-            "issue": 1990,
-            "eng_volume": 12.0,
-            "color": "Белый",
-            "body_type": "Туристический",
-            "milage": "Не указано",
-            "price": 13000.0
-        },
-        {
-            "id": "37174693",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Туристический",
-            "issue": 2007,
-            "eng_volume": 3.0,
-            "color": "Черный",
-            "body_type": "Туристический",
-            "milage": 571000,
-            "price": 30000.0
-        },
-        {
-            "id": "37189092",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Междугородный",
-            "issue": 2017,
-            "eng_volume": 2.7,
-            "color": "Белый",
-            "body_type": "Междугородный",
-            "milage": 450000,
-            "price": 22000.0
-        },
-        {
-            "id": "37203351",
-            "mark": "Ford",
-            "model": "Ford Transit",
-            "issue": 2005,
-            "eng_volume": 20.0,
-            "color": "Синий",
-            "body_type": "Междугородный",
-            "milage": "Не указано",
-            "price": 5500.0
-        },
-        {
-            "id": "37218707",
-            "mark": "Mercedes-Benz",
-            "model": "Mercedes-Benz Пригородный",
-            "issue": 2003,
-            "eng_volume": 2.2,
-            "color": "Белый",
-            "body_type": "Пригородный",
-            "milage": 245000,
-            "price": 9800.0
-        },
-        {
-            "id": "37235098",
-            "mark": "Neoplan",
-            "model": "Neoplan Cityliner",
-            "issue": 1999,
-            "eng_volume": 12.0,
-            "color": "Белый",
-            "body_type": "Туристический",
-            "milage": 500000,
-            "price": 18206.0
+            "milage": 347000,
+            "price": 12500.0,
+            "comment": "Класс"
         }
     ],
-    "cars_counter": 61
+    "cars_counter": 15
 }

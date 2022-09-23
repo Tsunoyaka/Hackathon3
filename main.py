@@ -1,8 +1,8 @@
 from models import Car
-from mixins import JsonMixin, CreateMixin, ListingMixin, UpdateMixin, DeleteMixin
+from mixins import JsonMixin, CreateMixin, ListingMixin, UpdateMixin, DeleteMixin, CommentMixin
 from parsing import ModelParse
 
-class Crud(JsonMixin, CreateMixin, ListingMixin, UpdateMixin, DeleteMixin, ModelParse):
+class Crud(JsonMixin, CreateMixin, ListingMixin, UpdateMixin, DeleteMixin, ModelParse, CommentMixin):
     _model = Car
 
 
@@ -16,6 +16,7 @@ class Crud(JsonMixin, CreateMixin, ListingMixin, UpdateMixin, DeleteMixin, Model
             update - обновление записи
             delete - удаление записи
             help - список команд
+            comment - добавить комментарий
             quit - выход
             """
 
@@ -29,6 +30,7 @@ class Crud(JsonMixin, CreateMixin, ListingMixin, UpdateMixin, DeleteMixin, Model
             'details': self.get_car_by_id,
             'update': self.update,
             'delete': self.delete,
+            'comment':  self.comment,
             'help': self.help
         }
         while True:
